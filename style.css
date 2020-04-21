@@ -51,6 +51,13 @@ h1 {
 /* Platforms */
 .container {
 	margin-top: 80px;
+	width: 80%;
+}
+
+.card-header img {
+	height: 160px;
+	width: 300px;
+	background-size: contain;
 }
 
 /* Animations */
